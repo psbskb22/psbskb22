@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Susanta Kumar Behera.
 - 👀 I’m interested in game development and software development.
 - 🌱 I’m currently exploring deep learning and its application in the field of game development and sofware development.
-- 💞️ I’m looking to collaborate on shooting, action and racing game development, as well as sotfware development.
+- 💞️ I’m looking to collaborate on shooting, action and racing game development, as well as app development.
 - 📫 You can drop me a mail in (psb.skb22@gmail.com)
 
 <!---
