@@ -31,12 +31,12 @@
 - 👀 I’m interested in game development and software development with 5 + years of experience.
 - 🌱 I’m currently exploring deep learning and its application in the field of game development and software development.
 - 💞️ I'm looking for my next challenge, something that will push me to my limits and help me grow.
-- 📫 You can drop me a mail in (psb.skb22@gmail.com)
+- 📫 You can drop me a mail in psb.skb22@gmail.com
   
 <div align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-EA4C1D?style=for-the-badge&logo=Figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Adobe Illustater-EA4C1D?style=for-the-badge&logo=Adobe Illustater&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kotlin-EA4C1D?style=for-the-badge&logo=Kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-1E1E1E?style=for-the-badge&logo=Unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
