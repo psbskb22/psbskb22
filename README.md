@@ -46,10 +46,10 @@
     
 </div>
 
-<summary>📝 My GitHub Stats</summary>
+<!-- <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Susant's github stats](https://github-readme-stats.vercel.app/api?username=psbskb22&theme=gotham)](https://github.com/psbskb22/github-readme-stats)
+[![Susant's github stats](https://github-readme-stats.vercel.app/api?username=psbskb22&theme=gotham)](https://github.com/psbskb22/github-readme-stats) -->
 
 
 <!---
