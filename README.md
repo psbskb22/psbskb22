@@ -28,7 +28,7 @@
 #### Talking about my personal stuff:
 
 - 👋 Hi, I’m Susanta Kumar Behera.
-- 👀 I’m interested in game development and software development with 3 years of experience.
+- 👀 I’m interested in game development and software development with 4 years of experience.
 - 🌱 I’m currently exploring deep learning and its application in the field of game development and software development.
 - 💞️ I'm looking for my next challenge, something that will push me to my limits and help me grow.
 - 📫 You can drop me a mail in psb.skb22@gmail.com
